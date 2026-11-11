@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="glitch.svg" alt="Taha glitch banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tahasteamacc2000-collab/tahasteamacc2000-collab/main/glitch.svg" alt="Taha glitch banner" width="100%" />
 </p>
-https://raw.githubusercontent.com/tahasteamacc2000-collab/tahasteamacc2000-collab/main/glitch.svg
+
 <h3 align="center">Glitch vibes only</h3>
 
 ### About me
