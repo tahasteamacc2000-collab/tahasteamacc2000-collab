@@ -7,8 +7,8 @@
 </p>
 
 ### About me
-- 🎮 دارم گیت‌هاب یاد می‌گیرم
-- 🚀 عاشق چیزهای نئونی و سایبری
+- 🎮 
+- 🚀 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahasteamacc2000-collab&show_icons=true&theme=radical" alt="GitHub stats" />
