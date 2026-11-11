@@ -1,4 +1,4 @@
-<p align="center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Taha glitch banner" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Taha glitch banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b0b1a"/>
@@ -74,17 +74,4 @@
 
   <rect width="900" height="220" fill="url(#scan)"/>
   <rect class="roll" x="0" y="0" width="900" height="30" fill="#ffffff" opacity="0.05"/>
-<metadata>
-  <img src="glitch.svg" alt="Taha glitch banner" width="100%" />
-</p><img width="900" height="220" alt="glitch" src="https://github.com/user-attachments/assets/dad80b9b-b6c4-4026-af28-6f8d8105d130" />
-
-
-<h3 align="center">Glitch vibes only</h3>
-
-### About me
-- Learning GitHub
-- Love neon and cyber stuff
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
-</p>
+</svg>
