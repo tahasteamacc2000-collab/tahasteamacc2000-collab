@@ -1,17 +1,4 @@
+
 <p align="center">
-  <img align="top" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F1F1F&height=60&section=header&text=Command%20Prompt&fontSize=20&fontColor=FFFFFF&fontAlign=8&fontAlignY=52" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=CCCCCC&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0Microsoft+Windows+%5BVersion+10.0.26300.9974%5D" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=CCCCCC&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0%28c%29+Microsoft+Corporation.+All+rights+reserved." />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=CCCCCC&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0C%3A%5CUsers%5CTAHA%3E" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=64&duration=2500&pause=3000&color=16C60C&background=0C0C0C&width=900&height=90&lines=%C2%A0%C2%A0TAHA" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=16C60C&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0%3E+SYSTEM+BREACH+DETECTED..." />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=16C60C&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0%3E+GLITCH+VIBES+ONLY" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=16C60C&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0%3E+WELCOME+TO+MY+PROFILE" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=3A3A3A&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0--------------------------------------------------------------------------------------" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=3000&color=61D6D6&background=0C0C0C&width=900&height=40&lines=%C2%A0%C2%A0ABOUT+ME" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=3000&color=F9F1A5&background=0C0C0C&width=900&height=32&lines=%C2%A0%C2%A0%2F%2F+learning+GitHub+step+by+step" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=3000&color=F9F1A5&background=0C0C0C&width=900&height=32&lines=%C2%A0%C2%A0%2F%2F+in+love+with+neon+and+cyber+stuff" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=3000&color=F9F1A5&background=0C0C0C&width=900&height=32&lines=%C2%A0%C2%A0%2F%2F+dark+mode+forever" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=3A3A3A&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0--------------------------------------------------------------------------------------" />
-  <img align="top" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=3000&color=CCCCCC&background=0C0C0C&width=900&height=30&lines=%C2%A0%C2%A0C%3A%5CUsers%5CTAHA%3E_" />
+  <img src="./terminal.svg" alt="TAHA - SYSTEM BREACH DETECTED... GLITCH VIBES ONLY, WELCOME TO MY PROFILE. ABOUT ME: learning GitHub step by step, in love with neon and cyber stuff, dark mode forever" width="100%" />
 </p>
